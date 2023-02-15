@@ -1,4 +1,4 @@
-# Lab 2: Logic
+# Lab 2: Tom83 Hutta 240628
 
 ### 2-bit comparator
 
