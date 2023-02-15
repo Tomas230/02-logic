@@ -6,7 +6,7 @@
 
    Greater than:
 
-   ![K-maps](![B mensie ako A](https://user-images.githubusercontent.com/124770881/219062589-42b8576e-d4d2-45ac-8b9c-df3950e531c8.png)
+   (https://user-images.githubusercontent.com/124770881/219063199-4e2138e7-e859-42e1-965b-d57fc2f62f16.png)
 
    Less than:
 
