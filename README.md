@@ -57,7 +57,7 @@
         report "Stimulus process finished" severity note;
         wait;
     end process p_stimulus;
-    end process p_stimulus;
+   
 ```
 
 2. Link to your public EDA Playground example:
