@@ -6,16 +6,19 @@
 
    Greater than:
 
-   ![](https://user-images.githubusercontent.com/124770881/219063410-cbe7ce9a-c6e3-4b85-966b-93325e9a4e6c.png) ![unnamed](https://user-images.githubusercontent.com/124770881/220201808-8faea89b-99f1-493f-aa43-b0df986584d5.jpg)
+   ![](https://user-images.githubusercontent.com/124770881/219063410-cbe7ce9a-c6e3-4b85-966b-93325e9a4e6c.png) 
+   ![unnamed](https://user-images.githubusercontent.com/124770881/220201896-94805e3d-d893-4f3f-ab8a-cf0ef3bcae93.jpg)
 
 
    Less than:
 
    ![](https://user-images.githubusercontent.com/124770881/219063483-1d17401a-7a75-4a6f-9608-5c12ee9e3619.png)
+   ![unnamed (1)](https://user-images.githubusercontent.com/124770881/220201916-4a56d8be-d8fd-4d31-8be6-47de8789e739.jpg)
+
 
 2. Mark the largest possible implicants in the K-map and according to them, write the equations of simplified SoP (Sum of the Products) form of the "greater than" function and simplified PoS (Product of the Sums) form of the "less than" function.
 
-   ![Logic functions](images/comparator_min.png)
+   ![unnamed (2)](https://user-images.githubusercontent.com/124770881/220201963-2e5b1e57-ae56-42f2-9c2b-59b72d790cc5.jpg)
 
 ### 4-bit comparator
 
